@@ -1,4 +1,4 @@
-## __Hi there, I’m Olga!__ 👋
+## ___Hi there, I’m Olga!___ 👋
 
 ### I’m currently learning QA courses by Vadim Ksendzov.
 
