@@ -1,8 +1,8 @@
-### Hi there, I’m Olga! 👋
+## Hi there, I’m Olga! 👋
 
-## 🌱 I’m currently learning QA courses by Vadim Ksendzov.
+### 🌱 I’m currently learning QA courses by Vadim Ksendzov.
 
-## 📫 How to reach me: olga_hotin@mail.ru
+### 📫 How to reach me: olga_hotin@mail.ru
 <!--
 **olghotin/olghotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
