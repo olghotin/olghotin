@@ -1,5 +1,7 @@
 ### Hi there, I’m Olga! 👋
 
+- 🌱 I’m currently learning QA courses by Vadim Ksendzov.
+- 
 <!--
 **olghotin/olghotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
