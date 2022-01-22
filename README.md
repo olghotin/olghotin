@@ -2,7 +2,7 @@
 
 ### I’m currently learning QA courses by Vadim Ksendzov.
 
-[Linkedin](C/Useres/user/Рабочий стол/Linkedin-Logo-300x188.png)
+[https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-300x188.png](https://www.linkedin.com/in/olga-k/)
 
 
 <!--
