@@ -1,8 +1,8 @@
 ## Hi there, I’m Olga! 👋
 
-### 🌱 I’m currently learning QA courses by Vadim Ksendzov.
+### I’m currently learning QA courses by Vadim Ksendzov.
 
-### 📫 How to reach me: olga_hotin@mail.ru
+https://github-readme-stats.vercel.app/api?username=olghotin
 <!--
 **olghotin/olghotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
