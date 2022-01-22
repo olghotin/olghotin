@@ -2,7 +2,7 @@
 
 ### I’m currently learning QA courses by Vadim Ksendzov.
 
-[](Linkedin-Logo-300x188.png)
+[Linkedin](Linkedin-Logo-300x188.png)
 
 
 <!--
