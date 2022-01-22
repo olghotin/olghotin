@@ -2,7 +2,8 @@
 
 ### I’m currently learning QA courses by Vadim Ksendzov.
 
-![](https://www.linkedin.com/in/olga-k/)
+![![Linkedin-Logo-300x188](https://user-images.githubusercontent.com/94904134/150654505-af698473-2723-458a-9b5b-9146ce109f54.png)
+](https://www.linkedin.com/in/olga-k/)
 
 
 <!--
