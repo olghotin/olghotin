@@ -1,12 +1,15 @@
 ## Hi there, I’m Olga! 👋
 
-### How to reach me:
+### I’m currently learning QA courses by Vadim Ksendzov.
+
+#### How to reach me:
 
 <a href="https://www.linkedin.com/in/olga-k-765272227/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94904134/150668220-91183859-2035-4054-b70f-a5ea669c3ede.png" alt="linkedin" width="30" height="25"/> </a>
 <a href="https://t.me/olga_kontush" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="telegram" width="25" height="25"/> </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-12.jpg" alt="gmail" width="25" height="25"/> </a>
 
-### I’m currently learning QA courses by Vadim Ksendzov.
+
+
 
 #### You can see my homework here:
 
