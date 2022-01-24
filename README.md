@@ -1,5 +1,6 @@
 ## Hi there, I’m Olga! 👋 I'm a beginner QA Engineer.
 
+### I am not a magician. I'm just learning.
 
 ### I’m currently learning QA courses by Vadim Ksendzov.
 
