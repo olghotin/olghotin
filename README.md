@@ -20,8 +20,7 @@
 <a href="https://github.com/olghotin/SQL" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" alt="postgres" width="50" height="50"/></a> 
 <a href="https://github.com/olghotin/Python" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="python" width="50" height="50"/> </a>
 <a href="https://github.com/olghotin/DevTools" target="_blank" rel="noreferrer"> <img src="https://timeweb.com/ru/community/article/cc/cc80ce9459e66652beff9cec4f47baf7.jpg" alt="DevTools" width="80" height="40"/> </a>
-
-<a href="https://github.com/olghotin/Charles" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="Charles" width="80" height="40"/> </a>
+<a href="https://github.com/olghotin/Charles" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="Charles" width="50" height="50"/> </a>
 
 <!--
 **olghotin/olghotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
