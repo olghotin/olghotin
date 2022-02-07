@@ -1,4 +1,4 @@
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHkJtHORe_P1g/profile-displaybackgroundimage-shrink_200_800/0/1644213886766?e=1649894400&v=beta&t=Jc7YSzlaRgJquYO1BmFona-ekL4TDf9g46-kVDPISjI" alt="gitbush" width="1500" height="300"/> </a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHkJtHORe_P1g/profile-displaybackgroundimage-shrink_200_800/0/1644213886766?e=1649894400&v=beta&t=Jc7YSzlaRgJquYO1BmFona-ekL4TDf9g46-kVDPISjI" alt="gitbush" width="1500" height="200"/> </a> 
 
 ## Hi there, I’m Olga! 👋 I'm a beginner QA Engineer.
 
