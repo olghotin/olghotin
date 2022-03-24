@@ -16,7 +16,7 @@
 
 #### You can see my homework here:
 
-<a href="https://github.com/olghotin/Course_QA" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94904134/150668408-17597513-4eb9-4169-bd5d-73ee47b22d2f.png" alt="gitbush" width="50" height="50"/> </a>
+<a href="https://github.com/olghotin/Terminal_Linux" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94904134/150668408-17597513-4eb9-4169-bd5d-73ee47b22d2f.png" alt="gitbush" width="50" height="50"/> </a>
 <a href="https://github.com/olghotin/Postman" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="50" height="50"/></a> 
 <a href="https://github.com/olghotin/SQL" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" alt="postgres" width="50" height="50"/></a> 
 <a href="https://github.com/olghotin/Python" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="python" width="50" height="50"/> </a>
