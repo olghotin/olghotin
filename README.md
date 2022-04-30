@@ -23,7 +23,7 @@
 <a href="https://github.com/olghotin/DevTools" target="_blank" rel="noreferrer"> <img src="https://timeweb.com/ru/community/article/cc/cc80ce9459e66652beff9cec4f47baf7.jpg" alt="DevTools" width="80" height="40"/> </a>
 <a href="https://github.com/olghotin/Charles" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="Charles" width="50" height="50"/> </a>
 <a href="https://github.com/olghotin/Jmeter" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Jmeter" width="100" height="70"/> </a>
-<a href="https://github.com/olghotin/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="90"/> </a>
+<a href="https://github.com/olghotin/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="70"/> </a>
 
 <!--
 **olghotin/olghotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
